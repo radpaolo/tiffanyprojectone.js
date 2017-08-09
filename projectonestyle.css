@@ -1,0 +1,22 @@
+body {
+  background-color: #e6ffff;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin: 0 auto;
+  text-align: center;
+  font-family: helvetica, sans-serif;
+}
+
+.meatbody {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 12px;
+}
+
+.form {
+  font-family: sans-serif;
+  text-align: center;
+}
